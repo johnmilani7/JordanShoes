@@ -91,7 +91,7 @@ header{
     padding: 15px;
 }
 
-section{
+.section{
     width: 90%;
     margin: 0 auto;
 }
@@ -121,9 +121,7 @@ img {
     padding: 15px 0 15px 0;
 }
 
-#tenis{
-    margin-bottom: 80px;
-}
+
 
 @media (max-width: 900px){
 
